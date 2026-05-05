@@ -1,0 +1,4 @@
+@import 'tailwindcss';
+
+/* Ensure Tailwind scans this package when building consumer stylesheets. */
+@source '../**/*.{ts,tsx}';
