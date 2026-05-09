@@ -1,6 +1,6 @@
 {
   "name": "@ifthakhar8/pdf-cutter",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "React PDF workspace: pick pages, reorder, persist selection, export a merged PDF (Ant Design + react-pdf + pdf-lib).",
   "type": "module",
   "license": "MIT",
