@@ -2,6 +2,16 @@
 
 React PDF cutter UI: preview pages, pick pages, reorder with drag-and-drop, persist selection, and export selected pages as one merged PDF.
 
+## Live demo
+
+**Playground:** [pdf-cutter-chi.vercel.app](https://pdf-cutter-chi.vercel.app/)
+
+**Screenshot (Lightshot):** [prnt.sc/u8uYP3q9Ac_e](https://prnt.sc/u8uYP3q9Ac_e)
+
+Preview (bundled in repo for GitHub / npm):
+
+![PDF Cutter playground — sidebar pages and selection panel](./docs/playground-screenshot.png)
+
 ## Features
 
 - Left sidebar with page thumbnails (`react-pdf`)
